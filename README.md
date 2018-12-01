@@ -1,4 +1,4 @@
-# etiqatest
+# Etiqa Admission Test
 
 University (BackEnd)
 -------------------
